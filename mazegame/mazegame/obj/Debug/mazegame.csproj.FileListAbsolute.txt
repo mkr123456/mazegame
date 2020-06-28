@@ -1,0 +1,10 @@
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\bin\Debug\mazegame.exe.config
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\bin\Debug\mazegame.exe
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\bin\Debug\mazegame.pdb
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\obj\Debug\mazegame.csprojAssemblyReference.cache
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\obj\Debug\mazegame.Form1.resources
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\obj\Debug\mazegame.Properties.Resources.resources
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\obj\Debug\mazegame.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\obj\Debug\mazegame.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\obj\Debug\mazegame.exe
+C:\Users\DELL PRECISION\source\repos\mazegame\mazegame\obj\Debug\mazegame.pdb
